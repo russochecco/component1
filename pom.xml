@@ -12,6 +12,6 @@
 
     <groupId>org.frusso</groupId>
     <artifactId>component1</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
 
 </project>
