@@ -1,0 +1,47 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/node
+node_modules/
+src/main/resources/static/js/bundle*
+src/main/resources/static/js/render.js
+src/main/webapp/*
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Vim ###
+*~
+*.swp
+
+### ESLint ###
+.eslintcache
+
+### Visual Studio Code ###
+.vscode
+
+.DS_Store
+
+### Tests ###
+coverage
+
+/bin/
