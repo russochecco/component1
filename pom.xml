@@ -12,10 +12,14 @@
 
     <groupId>org.frusso</groupId>
     <artifactId>component1</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <dependencies>
-
+        <dependency>
+            <groupId>org.frusso</groupId>
+            <artifactId>sharedmodule1</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
 </project>
