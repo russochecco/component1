@@ -15,7 +15,11 @@
     <version>1.0.3-SNAPSHOT</version>
 
     <dependencies>
-
+        <dependency>
+            <groupId>org.frusso</groupId>
+            <artifactId>sharedmodule1</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
 </project>
