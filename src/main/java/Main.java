@@ -6,7 +6,6 @@ public final class Main {
 
         final PersonVO personVO = new PersonVO("Francesco", "Russo", 44);
         System.out.println(String.format("New %s", personVO));
-
         System.exit(0);
     }
 }
